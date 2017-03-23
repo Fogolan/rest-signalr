@@ -15,7 +15,7 @@ namespace WebstackOfLove.Controllers
     {
         private static List<ToDoItem> db = new List<ToDoItem>
         {
-            new ToDoItem { ID = 0, Title = "Spread the word about ASP.NET Web API" },
+            new ToDoItem { ID = 0, Title = "Хуй the word about ASP.NET Web API" },
             new ToDoItem { ID = 1, Title = "Wash the car" },
             new ToDoItem { ID = 2, Title = "Get a haircut", Finished = true }
         };
